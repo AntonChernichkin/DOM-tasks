@@ -1,14 +1,41 @@
-/* .task__1 {
-    min-height: 100px;
-}
-button {
-    background-color: antiquewhite;
-    width: 150px;
-    height: 40px;
-    /* border-right: 5px; */
-    /* border: 
+.task-1 {
+  min-height: 100px;
+  padding: 20px; }
 
-}
-button:hover {
-    background-color: rgb(243, 238, 231);
-} */ 
+.task-2 {
+  min-height: 100px;
+  padding: 20px; }
+
+.task-3 {
+  min-height: 100px;
+  padding: 20px; }
+
+.task-4 {
+  min-height: 100px;
+  padding: 20px; }
+
+.task-5 {
+  min-height: 100px;
+  padding: 20px; }
+
+.task-6 {
+  min-height: 154px;
+  padding: 20px; }
+
+button {
+  background-color: #ebd1ae;
+  width: 150px;
+  height: 40px;
+  border: 2px solid #b1a18c;
+  border-radius: 6px; }
+  button:hover {
+    background-color: #f3eee7; }
+
+.task-6__square {
+  width: 80px;
+  height: 80px;
+  background-color: #f53030;
+  border: 2px solid #3d1313;
+  margin-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */
